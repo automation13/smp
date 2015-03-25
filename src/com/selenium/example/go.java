@@ -3,7 +3,7 @@ package com.selenium.example;
 public class go{
 
 	public static void main(String[] args) throws InterruptedException{
-		
+		//izmenil yml file
 		_1_load_webpage gts=new _1_load_webpage();
 		gts.gotolink();
 		//---
