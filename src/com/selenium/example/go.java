@@ -6,7 +6,7 @@ public class go{
 		
 		_1_load_webpage gts=new _1_load_webpage();
 		gts.gotolink();
-		
+		//---
 		// proveraem nalichie vseh silok v menu
 		
 		_2_verifu_all_categories vac=new _2_verifu_all_categories();
