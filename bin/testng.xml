@@ -1,0 +1,9 @@
+<suite name="Test Suite" verbose="1" parallel="tests" thread-count="1">
+    <test name="Test" parallel="classes" thread-count="1">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="is_local" value="false"/>
+        <packages>
+            <package name="com.selenium.example.*"/> 
+        </packages>
+    </test>
+</suite>
